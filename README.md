@@ -1,4 +1,4 @@
-These commands will create and install packages from requirements
+Run With This Command
 ```
 python test.py test.txt
 
